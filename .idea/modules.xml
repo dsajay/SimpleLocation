@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleLocation.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleLocation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleLocation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleLocation.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleLocation.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleLocation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleLocation.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleLocation.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleLocation.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/SimpleLocation.mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/SimpleLocation.mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/SimpleLocation.mylibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/SimpleLocation.mylibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/SimpleLocation.mylibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/SimpleLocation.mylibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/SimpleLocation.mylibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/SimpleLocation.mylibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>
